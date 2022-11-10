@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-BusReservationSystemApplication<springboot-starterkit>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.starterkit.springboot.brs.BusReservationSystemApplication",
+            "projectName": "springboot-starterkit",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
